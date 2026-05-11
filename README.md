@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hello, I'm Eli!</h1>
+<h3>2nd Year R.I.T College Student | Computer Science Major | Active CSH Member</h3>
 
-<!--
-**WeatherGod3218/WeatherGod3218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy getting to learn everything within the Computer Science world, ranging from Software Engineering to Game Development.
+It's a very expansive world that I just can't stop learning about
 
-Here are some ideas to get you started:
+## Current Projects
+- Learning Software Development in Golang
+- Learning React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Python, Go, Java, C, C++, C#, Haxe, Lua, HTML/CSS
+- **Tools:** Sonarqube, Git, Visual Studio Code, M365 Apps
